@@ -6,4 +6,6 @@ This notebook explores the biological and psychological inspirations to the worl
 
 ## Learning Objectives
 
-The goals of this exercise in
+The goals of this exercise include:
+- Exploring how nueral networks use data to learn
+- Under

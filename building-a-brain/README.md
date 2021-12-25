@@ -12,4 +12,5 @@ The goals of this exercise include:
 
 ## Prerequisites
 
-Anyone can run the code to see how it works, 
+Anyone can run the code to see how it works, but to get the most out of this content, we recommend:
+- An unde

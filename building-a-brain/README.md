@@ -10,3 +10,6 @@ The goals of this exercise include:
 - Exploring how nueral networks use data to learn
 - Understanding the math behind a neuron
 
+## Prerequisites
+
+Anyone can run the code to see how it works, 

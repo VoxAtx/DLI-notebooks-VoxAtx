@@ -13,4 +13,5 @@ The goals of this exercise include:
 ## Prerequisites
 
 Anyone can run the code to see how it works, but to get the most out of this content, we recommend:
-- An understanding of fundamental programming concepts in [Python 3](https://wiki.python.org/moin/BeginnersGuide) such as functi
+- An understanding of fundamental programming concepts in [Python 3](https://wiki.python.org/moin/BeginnersGuide) such as functions, loops, dictionaries, and arrays.
+- An understanding of how to

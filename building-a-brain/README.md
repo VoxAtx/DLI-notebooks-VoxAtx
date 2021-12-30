@@ -18,4 +18,4 @@ Anyone can run the code to see how it works, but to get the most out of this con
 
 ## Followup Materials
 
-Want to learn how to build more state-of-the-art models? Check up the follow-up to th
+Want to learn how to build more state-of-the-art models? Check up the follow-up to this article, [Getting Started with Deep Lea

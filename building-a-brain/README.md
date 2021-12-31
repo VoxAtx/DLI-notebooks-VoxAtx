@@ -18,4 +18,4 @@ Anyone can run the code to see how it works, but to get the most out of this con
 
 ## Followup Materials
 
-Want to learn how to build more state-of-the-art models? Check up the follow-up to this article, [Getting Started with Deep Learning](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/about) or our other online courses at [NVIDIA DLI](https://www.nvi
+Want to learn how to build more state-of-the-art models? Check up the follow-up to this article, [Getting Started with Deep Learning](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/about) or our other online courses at [NVIDIA DLI](https://www.nvidia.com/en-us/training/online/).
